@@ -1,3 +1,4 @@
 # Machine_Learning
 
-Machine learning algorithms MATLAB code
+ex1 
+
